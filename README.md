@@ -12,7 +12,7 @@ You are always welcome to contribute to my small Repos*
 <img src="https://static.wixstatic.com/media/0cfd43_1831013bcc8540fcba4f087dfa07653c~mv2.png/v1/fill/w_350,h_350,al_c,lg_1,q_85/c.webp" height=80><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height=80></span>
 <br><br><br>
 <span>
-<img src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" height=80><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png" height=80><img src="https://dartpad.dev/pictures/logo_dart.png" height=80>
+<img src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" height=80><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png" border-radius="50%" height=80><img src="https://dartpad.dev/pictures/logo_dart.png" height=80>
  
 
 
