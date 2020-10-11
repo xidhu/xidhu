@@ -29,7 +29,6 @@ ___
 <br>
 <span>
 <img src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" height=80>
-<img src="https://library.kissclipart.com/20180926/sge/kissclipart-android-studio-logo-clipart-android-studio-integra-3c446f9ae4074af8.jpg" height=80>
 </span>
 
 **My GitHub Status**
