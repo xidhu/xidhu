@@ -12,7 +12,7 @@ ___
 <br>
 <span>
 <img src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" height=80><img src="
-https://cdn.freebiesupply.com/logos/large/2x/dart-logo-png-transparent.png" height=80><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png" height=80>
+https://dartpad.dev/pictures/logo_dart.png" height=80><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png" height=80>
   </span><br>
 <img src="https://lh3.googleusercontent.com/proxy/ZqOBMJgYw9nBY8IzsdGTbLUb07iFQIxGZXgrMKdVNGSl2_-3rjpQ7fjFnqEyhUPih94cQXc81WRHrxM9IJcDZBiM9zmzZGYVTQSUFTU_FIyY" height=80>
   
