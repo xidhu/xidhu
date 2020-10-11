@@ -17,7 +17,7 @@ https://dartpad.dev/pictures/logo_dart.png" height=60>
   </span><br>
 <img src="https://lh3.googleusercontent.com/proxy/ZqOBMJgYw9nBY8IzsdGTbLUb07iFQIxGZXgrMKdVNGSl2_-3rjpQ7fjFnqEyhUPih94cQXc81WRHrxM9IJcDZBiM9zmzZGYVTQSUFTU_FIyY" height=80>
   
-
+<br><br>
 **Favourite FrameWorks**
 ___
 <span>
@@ -31,7 +31,7 @@ ___
 <span>
 <img src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" height=80>
 </span>
-
+<br><br>
 **My GitHub Status**
 ___
 
