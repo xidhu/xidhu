@@ -20,7 +20,7 @@ You are always welcome to contribute to my small projects*
   </span><br><br><br>
 <img src="https://lh3.googleusercontent.com/proxy/ZqOBMJgYw9nBY8IzsdGTbLUb07iFQIxGZXgrMKdVNGSl2_-3rjpQ7fjFnqEyhUPih94cQXc81WRHrxM9IJcDZBiM9zmzZGYVTQSUFTU_FIyY" height=80>
   
-<br><br>
+
 
 **Favourite FrameWorks**
 ---
@@ -41,8 +41,8 @@ You are always welcome to contribute to my small projects*
 
 
 **My GitHub Status**
-___
+---
 
-<br><br>
+
 
 <img align="left" alt="Xidhu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xidhu&show_icons=true&hide_border=true" />
