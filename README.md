@@ -2,7 +2,7 @@
 **Hi There,**
 
 *Nice to see you....<br>
-You are always welcome to contribute to my small projects*
+You are always welcome to contribute to my small Repos*
 
 **Favourite Languages**
 ---
