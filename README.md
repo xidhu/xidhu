@@ -1,7 +1,7 @@
 ## Xidhu
 **Hi There,**
 
-*Nice to see you
+*Nice to see you....<br>
 You are always welcome to contribute my small projects*
 ___
 **Favourite Languages**
@@ -20,6 +20,7 @@ https://cdn.freebiesupply.com/logos/large/2x/dart-logo-png-transparent.png" heig
   </span>
 
 **Favourite FrameWorks**
+______
 <span>
 <img src="https://cdn.worldvectorlogo.com/logos/react.svg" height=80>
 <img src="https://i.pinimg.com/originals/99/49/77/994977c48fde58ac674a2d05ba5a5efb.png" height=80>
@@ -31,7 +32,8 @@ https://cdn.freebiesupply.com/logos/large/2x/dart-logo-png-transparent.png" heig
 <img src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" height=80>
 <img src="https://library.kissclipart.com/20180926/sge/kissclipart-android-studio-logo-clipart-android-studio-integra-3c446f9ae4074af8.jpg" height=80>
 </span>
-___
+
 **My GitHub Status**
+___-
 
 <img align="left" alt="Xidhu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xidhu&show_icons=true&hide_border=true" />
