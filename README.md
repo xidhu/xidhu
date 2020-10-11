@@ -11,8 +11,8 @@ ___
 <img src="https://static.wixstatic.com/media/0cfd43_1831013bcc8540fcba4f087dfa07653c~mv2.png/v1/fill/w_350,h_350,al_c,lg_1,q_85/c.webp" height=80><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height=80></span>
 <br>
 <span>
-<img src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" height=80><img src="
-https://dartpad.dev/pictures/logo_dart.png" height=80><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png" height=80>
+<img src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" height=80><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png" height=80><img src="
+https://dartpad.dev/pictures/logo_dart.png" height=80>
   </span><br>
 <img src="https://lh3.googleusercontent.com/proxy/ZqOBMJgYw9nBY8IzsdGTbLUb07iFQIxGZXgrMKdVNGSl2_-3rjpQ7fjFnqEyhUPih94cQXc81WRHrxM9IJcDZBiM9zmzZGYVTQSUFTU_FIyY" height=80>
   
