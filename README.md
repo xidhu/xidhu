@@ -14,7 +14,7 @@ You are always welcome to contribute to my small Repos*
 <img align="left" alt="Xidhu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xidhu&show_icons=true&theme=radical" />
 
 
-  #### 📫 How to reach me:   
+  ####  How to reach me:   
   
   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/SXidhu)
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sidharth-s-886711a8)
