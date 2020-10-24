@@ -2,7 +2,7 @@
 **Hi There,**
 
 *Nice to see you....<br>
-You are always welcome to contribute to my small Repos*
+You are always welcome to contribute to my small Repos....*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xidhu&layout=compact)
 
