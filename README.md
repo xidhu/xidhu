@@ -11,7 +11,7 @@ You are always welcome to contribute to my small Repos....*
 
 
 
-<img align="left" alt="Xidhu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xidhu&show_icons=true&theme=radical" />
+<img align="left" alt="Xidhu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xidhu&show_icons=true&theme=radical " />
 
 
   ####  How to reach me:   
