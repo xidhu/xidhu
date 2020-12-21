@@ -1,7 +1,7 @@
 ## Xidhu
 **Hi There,**
 
-<img align="center" alt="Hi" width="30%" src="main.gif" />
+<img align="center" alt="Hi" width="30%" src="main_.gif" />
 
 *Nice to see you....<br>
 You are always welcome to contribute to my small Repos....*
@@ -16,7 +16,7 @@ You are always welcome to contribute to my small Repos....*
 
 
 
-<img align="left" alt="Xidhu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xidhu&show_icons=true&theme=radical " />
+<img align="center" alt="Xidhu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xidhu&show_icons=true&theme=radical " />
 
 
   ####  How to reach me:   
