@@ -4,7 +4,7 @@
 <img align="center" alt="Hi" width="30%" src="main_.gif" />
 
 *Nice to see you....<br>
-You are always welcome to contribute to my small Repos....*
+You are always welcome to contribute to my small Repos.*
 
 <img align="center" alt="Xidhu's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xidhu&langs_count=8&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
   
