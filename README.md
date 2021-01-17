@@ -1,8 +1,6 @@
 ## Xidhu
 **Hi There,**
-
 <img align="center" alt="Hi" width="30%" src="main_.gif" /><br>
-
 *Nice to see you.<br>
 You are always welcome to contribute to my small Repos.*<br>
 
@@ -11,7 +9,7 @@ You are always welcome to contribute to my small Repos.*<br>
 <img align="center" alt="Xidhu's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xidhu&langs_count=8&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
   
  
-
+<br>
 
 **My GitHub Status**
 ---
