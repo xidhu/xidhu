@@ -4,7 +4,7 @@
 *Nice to see you.<br>
 You are always welcome to contribute to my small Repos.*<br>
 
-<a href="https://xidhu.github.io/portfolio/"><img align="center" alt="Hi" width="20%" src="https://www.speakadelic.com/uploads/1/2/0/5/12053319/clck_orig.png" /></a><br>
+
 
 <img align="center" alt="Xidhu's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xidhu&langs_count=8&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
   
