@@ -686,6 +686,16 @@ a{
         
     }
 
+    .contact-div-mob{
+        background-color: var(--primary-color);
+        width: 10rem;
+        height: 0.2rem;
+        margin-left:auto;
+        margin-right: auto;
+        margin-top:1.5rem;
+        border-radius: 1rem;
+    }
+
     .contact-cont{
         width:8rem;
         height:8rem;
