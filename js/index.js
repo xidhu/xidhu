@@ -196,18 +196,16 @@ see_more_btn.forEach((btn)=>{
 
 
 //Fetch Github Data
-const apikey = "3b63f4c7fbc3215ca65244085561348bd3b21f62";
-let url = "https://api.github.com/users/xidhu/repos?state=closed&access_token="+apikey;
+let url = "https://api.github.com/users/xidhu/repos";
 let reponames, langRawList =[];
-let langs = [{language:"HTML",count:0,src:"./assets/png/icons/html.png"},{language:"CSS",count:0,src:"./assets/png/icons/css.png"},{language:"JavaScript",count:0,src:"./assets/png/icons/js.png"},{language:"Dart",count:0,src:"./assets/png/icons/dart.png"},{language:"C",count:0,src:"./assets/png/icons/c.png"},{language:"Java",count:0,src:"./assets/png/icons/java.png"},{language:"Kotlin",count:0,src:"./assets/png/icons/kt.png"},{language:"Shell",count:0,src:"./assets/png/icons/shell.png"}];
-
+let langs = [{language:"HTML",count:30,src:"./assets/png/icons/html.png"},{language:"CSS",count:20,src:"./assets/png/icons/css.png"},{language:"JavaScript",count:35,src:"./assets/png/icons/js.png"},{language:"Dart",count:25,src:"./assets/png/icons/dart.png"},{language:"C",count:28,src:"./assets/png/icons/c.png"},{language:"Java",count:32,src:"./assets/png/icons/java.png"},{language:"Kotlin",count:26,src:"./assets/png/icons/kt.png"},{language:"Shell",count:10,src:"./assets/png/icons/shell.png"}];
+let isMobile =  window.innerWidth < window.innerHeight?true:false;
+let langNames = [].slice.call(document.querySelectorAll('.skill-name > h3')).map((e) => {return e});
+let langPrgs = [].slice.call(document.querySelectorAll('.skill-ind')).map((e) => {return e});
+let langlogo = [].slice.call(document.querySelectorAll('.skill-logo > img')).map((e) => {return e});
 
 const setSkills = () => {
-    let isMobile =  window.innerWidth < window.innerHeight?true:false;
-    let langNames = [].slice.call(document.querySelectorAll('.skill-name > h3')).map((e) => {return e});
-    let langPrgs = [].slice.call(document.querySelectorAll('.skill-ind')).map((e) => {return e});
-    let langlogo = [].slice.call(document.querySelectorAll('.skill-logo > img')).map((e) => {return e});
-
+    
     langPrgs.forEach((e) => {e.style.transition = "all 0s ease-in-out";e.style.width = "0rem";});
 
       setTimeout(() => {
@@ -229,12 +227,14 @@ const setSkills = () => {
 }
 
 
+
+
 const convertToPercentage = (data) => {
   reponames = data.map((e) => {
     return e.name;
   });
   reponames.forEach((e) => {
-    url = "https://api.github.com/repos/xidhu/"+e+"/languages?state=closed&access_token="+apikey;
+    url = "https://api.github.com/repos/xidhu/"+e+"/languages";
     var languageFetch = new XMLHttpRequest();
     languageFetch.onreadystatechange = function () {
       if (this.readyState == 4 && this.status == 200) {
@@ -284,3 +284,52 @@ fetchData();
 
 
 //Contact
+let name_ = document.querySelector(".name_");
+let email_ = document.querySelector(".email_");
+let description_ = document.querySelector(".description_");
+
+const sendData = (nm, em, desc) => {
+  Email.send({
+    Host : "smtp.elasticemail.com",
+    Username : "sidhu3612@gmail.com",
+    Password : "3BD47ABBCE9BFCCD324B74A35BD48A1A4AC5",
+    To : em,
+    From : "sidhu3612@gmail.com",
+    Subject : "Project Details Recieved",
+    Body : createEmailBody("Hi,<br>"+nm+"<br>","Thank You For Messaging Me..!","i will send a response within one week."),
+}).then(
+  (message) => {alert(message == "OK"?"Message Sent Check Your Mail Spam Folder":"Message Not Sent..Try Again..!");
+  Email.send({
+    Host : "smtp.elasticemail.com",
+    Username : "sidhu3612@gmail.com",
+    Password : "3BD47ABBCE9BFCCD324B74A35BD48A1A4AC5",
+    To : "sidhu3612@gmail.com",
+    From : "sidhu3612@gmail.com",
+    Subject : "Project Details",
+    Body : createEmailBody("Name :"+nm,"Project Name :"+pr,"Description :"+desc),
+});}
+);
+};
+
+const submitData = () => {
+  if (name_.value != "") {
+    const re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+    if (re.test(String(email_.value).toLowerCase()) && email_.value != "") {
+      if (description_.value != "") {
+        //sendData(name_.value, email_.value description_.value);
+        name_.value = "";
+        email_.value = "";
+        project_.value = "";
+        description_.value = "";
+      } else {
+        alert("Please Enter Description");
+      }
+    } else {
+      alert("Please Enter Proper Email");
+    }
+  } else {
+    alert("Please Enter Your Name");
+  }
+};
+
+document.querySelector('.submit').addEventListener('click', ()=>submitData());
