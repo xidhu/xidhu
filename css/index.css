@@ -134,7 +134,7 @@ table {
 
 body{
     position: absolute;
-    background-image: url("/assets/png/background.png");
+    background-image: url("./assets/png/background.png");
     font-family: 'Poppins', sans-serif;
     color: var(--white);
     overflow-y: scroll;
