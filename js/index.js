@@ -196,7 +196,7 @@ see_more_btn.forEach((btn)=>{
 
 
 //Fetch Github Data
-const apikey = "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";
+const apikey = "3b63f4c7fbc3215ca65244085561348bd3b21f62";
 let url = "https://api.github.com/users/xidhu/repos?state=closed&access_token="+apikey;
 let reponames, langRawList =[];
 let langs = [{language:"HTML",count:0,src:"./assets/png/icons/html.png"},{language:"CSS",count:0,src:"./assets/png/icons/css.png"},{language:"JavaScript",count:0,src:"./assets/png/icons/js.png"},{language:"Dart",count:0,src:"./assets/png/icons/dart.png"},{language:"C",count:0,src:"./assets/png/icons/c.png"},{language:"Java",count:0,src:"./assets/png/icons/java.png"},{language:"Kotlin",count:0,src:"./assets/png/icons/kt.png"},{language:"Shell",count:0,src:"./assets/png/icons/shell.png"}];
