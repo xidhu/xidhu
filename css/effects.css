@@ -1,0 +1,393 @@
+:root{
+    --primary-color:#D9D932;
+    --dark-grey:#262624;
+    --light-grey:#323232;
+    --soft-grey:#1b1b1b;
+    --white:#FFFFFF;
+    --margin-left:6rem;
+    --margin-top:5rem;
+    --semi-bold:400;
+    --bold:600;
+    
+
+}
+
+
+
+
+.reveal-start{
+  animation: reveal 0.5s;
+}
+
+.reveal-end{
+  animation: unreveal 0.5s;
+}
+
+.zoom{
+  transition: all 1s ease-in-out;
+}
+
+.zoom:hover{
+  transform: scale(1.1);
+}
+
+.nav-item{
+    transition: all 0.3s ease-in-out;
+}
+
+.nav-item:hover{
+
+    font-size: 0.9rem;
+}
+
+.nav-item-mob{
+    transition: all 0.3s ease-in-out;
+}
+
+.nav-item-mob:hover{
+
+    font-size: 0.9rem;
+}
+
+
+
+.next{
+    transition: all 0.3s ease-in-out;
+
+}
+
+.next:hover{
+    box-shadow:-0.2rem -0.2rem 10px 1px rgba(0, 0, 0, 0.521);
+    background-color:var(--dark-grey);
+    
+}
+
+.next>img{
+    animation: next 2s infinite;
+}
+
+.navbar-scroller{
+    transition: left 0.1s ease-in-out;
+}
+
+.navbar-scroller-mob{
+    transition: left 0.1s ease-in-out;
+}
+.drawer{
+    transition: top 0.1s ease-out;
+}
+
+.btn-p{
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-p:hover{
+    margin-top: 0.9rem;
+    margin-bottom: 1.1rem;
+    box-shadow:0rem 0.2rem 5px 1px rgba(0, 0, 0, 0.521);
+    
+}
+.sc-icons > img{
+    transition: all 0.5s ease-in-out;
+}
+
+.sc-icons :hover{
+    
+    width:3rem;
+    margin: 2rem;
+   
+}
+
+
+.icon{
+    transition: padding 1s ease-in-out;
+}
+
+.icon:hover{
+    
+    padding: 1.1rem;
+    
+    
+}
+
+
+
+.ripple-eff{
+    overflow: hidden;
+    position: relative;
+}
+.ripple-eff > span {
+    position: absolute;
+    border-radius: 50%;
+    /* To make it round */
+    background-color: var(--primary-color);
+    
+    width: 100px;
+    height: 100px;
+    margin-top: -50px;
+    /* for positioning */
+    margin-left: -50px;
+
+    animation: ripple 0.5s ease-in-out;
+    opacity: 0;
+}
+
+
+@keyframes ripple {
+    from {
+        opacity: 1;
+        transform: scale(0);
+    }
+
+    to {
+        opacity: 0;
+        transform: scale(10);
+    }
+}
+
+@media only screen and (min-width:800px) {
+
+    a{
+        cursor: none;
+    }
+html {
+    cursor: none;
+    
+  }
+  #follower {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    z-index: 12;
+    pointer-events: none;
+    transition: all 0.09s ease;
+    
+  }
+  #follower #circle1 {
+    position: fixed;
+    -webkit-animation: pulse 2s infinite; /* Chrome, Safari, Opera */
+    animation: pulse 2s infinite;
+    background: var(--dark-grey);
+    border-radius: 50%;
+    height: 0em;
+    width: 0em;
+    margin-top: 0em;
+    margin-left: 0em;
+    
+    
+  }
+  #follower #circle2 {
+    position: fixed;
+    -webkit-animation: pulse 4s infinite; /* Chrome, Safari, Opera */
+    animation: pulse 4s infinite;
+    background: var(--primary-color);
+    border-radius: 50%;
+    height: 0em;
+    width: 0em;
+    margin-top: 0em;
+    margin-left: 0em;
+   
+    
+  }
+  @-moz-keyframes pulse {
+    0% {
+      opacity: 0.2;
+      height: 1em;
+      width: 1em;
+      margin-top: -0.5em;
+      margin-left: -0.5em;
+    }
+    50% {
+      opacity: 0.9;
+      height: 3em;
+      width: 3em;
+      margin-top: -1.5em;
+      margin-left: -1.5em;
+    }
+    100% {
+      opacity: 0.2;
+      height: 1em;
+      width: 1em;
+      margin-top: -0.5em;
+      margin-left: -0.5em;
+    }
+  }
+  @-webkit-keyframes pulse {
+    0% {
+      opacity: 0.2;
+      height: 1em;
+      width: 1em;
+      margin-top: -0.5em;
+      margin-left: -0.5em;
+    }
+    50% {
+      opacity: 0.9;
+      height: 3em;
+      width: 3em;
+      margin-top: -1.5em;
+      margin-left: -1.5em;
+    }
+    100% {
+      opacity: 0.2;
+      height: 1em;
+      width: 1em;
+      margin-top: -0.5em;
+      margin-left: -0.5em;
+    }
+  }
+  @-o-keyframes pulse {
+    0% {
+      opacity: 0.2;
+      height: 1em;
+      width: 1em;
+      margin-top: -0.5em;
+      margin-left: -0.5em;
+    }
+    50% {
+      opacity: 0.9;
+      height: 3em;
+      width: 3em;
+      margin-top: -1.5em;
+      margin-left: -1.5em;
+    }
+    100% {
+      opacity: 0.2;
+      height: 1em;
+      width: 1em;
+      margin-top: -0.5em;
+      margin-left: -0.5em;
+    }
+  }
+  @keyframes pulse {
+    0% {
+      opacity: 0.2;
+      height: 1em;
+      width: 1em;
+      margin-top: -0.5em;
+      margin-left: -0.5em;
+    }
+    50% {
+      opacity: 0.9;
+      height: 3em;
+      width: 3em;
+      margin-top: -1.5em;
+      margin-left: -1.5em;
+    }
+    100% {
+      opacity: 0.2;
+      height: 1em;
+      width: 1em;
+      margin-top: -0.5em;
+      margin-left: -0.5em;
+    }
+  }
+  @keyframes pulse-fast {
+    0% {
+      opacity: 0.2;
+      height: 1em;
+      width: 1em;
+      margin-top: -0.5em;
+      margin-left: -0.5em;
+    }
+    50% {
+      opacity: 0.9;
+      height: 5em;
+      width: 5em;
+      margin-top: -2.5em;
+      margin-left: -2.5em;
+    }
+    100% {
+      opacity: 0.2;
+      height: 1em;
+      width: 1em;
+      margin-top: -0.5em;
+      margin-left: -0.5em;
+    }
+    
+  }
+
+  
+
+
+
+}
+@keyframes next {
+    0% {
+      opacity: 0.2;
+      margin-left: 0.2rem;
+     
+    }
+    50% {
+      opacity: 0.9;
+      margin-left: 1rem;
+      
+    }
+    100% {
+      opacity: 0.2;
+      margin-left: 0.2rem;
+      
+    }
+    
+  }
+
+  @keyframes reveal {
+    0% {
+      opacity: 0;
+      transform: translateY(100%);
+     
+    }
+    
+    
+    100% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+    
+  }
+
+  @keyframes unreveal {
+    0% {
+      opacity: 0;
+      transform: translateY(0%);
+     
+    }
+    
+    
+    100% {
+      opacity: 1;
+      transform: translateY(-100%);
+    }
+    
+  }
+
+  .github-corner:hover .octo-arm {
+    animation: octocat-wave 560ms ease-in-out
+}
+
+@keyframes octocat-wave {
+
+    0%,
+    100% {
+        transform: rotate(0)
+    }
+
+    20%,
+    60% {
+        transform: rotate(-25deg)
+    }
+
+    40%,
+    80% {
+        transform: rotate(10deg)
+    }
+}
+
+@media (max-width:500px) {
+    .github-corner:hover .octo-arm {
+        animation: none
+    }
+
+    .github-corner .octo-arm {
+        animation: octocat-wave 560ms ease-in-out
+    }
+}
