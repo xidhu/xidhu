@@ -12,7 +12,9 @@
 
 }
 
-
+.overlay {
+  transition: all 0.3s ease-in-out;
+}
 
 
 .reveal-start{
@@ -381,6 +383,8 @@ html {
         transform: rotate(10deg)
     }
 }
+
+
 
 @media (max-width:500px) {
     .github-corner:hover .octo-arm {
