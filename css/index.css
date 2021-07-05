@@ -117,6 +117,7 @@ table {
 
 
 .github-corner{
+    display: none;
     position: fixed;
     top: 0;
     right: 0;
@@ -150,15 +151,7 @@ body{
     display: none;
 }
 
-.icon{
-    background-color:var(--light-grey);
-    padding: 0.6rem;
-    border-radius:100rem;
-    margin-top: -3rem;
-    margin-bottom: 2rem;
-    justify-self: start;
-    
-}
+
 
 .sc-icons{
     display: flex;
@@ -305,7 +298,7 @@ a{
 
 .overlay {
     position:absolute;
-    z-index: 30;
+    z-index: 11;
     background: rgba(0, 0, 0, 0.671);
     width: 100%;
     height: 100%;
@@ -363,6 +356,21 @@ a{
 
     .pc{
         display: block;
+    }
+
+    .icon{
+        background-color:var(--white);
+        padding: 0.3rem;
+        
+        border-radius:100rem;
+        margin-top: -3rem;
+        margin-bottom: 2rem;
+        justify-self: start;
+        
+    }
+    .icon > img{
+        width: 2rem;
+        height: 2rem;
     }
 
     
@@ -673,6 +681,9 @@ a{
 
     
     
+
+    
+    
 }
 
 @media only screen and (max-width:800px) {
@@ -682,6 +693,23 @@ a{
     .mob{
         display: block;
     }
+
+    .icon{
+        background-color:var(--light-grey);
+        padding: 0.6rem;
+        border-radius:100rem;
+        margin-top: -3rem;
+        margin-bottom: 2rem;
+        justify-self: start;
+        
+    }
+
+    .github-corner{
+        display: block;
+        
+    }
+
+    
 
     
 
