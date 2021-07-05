@@ -1,7 +1,8 @@
 
 
 //load
-window.onload = function() {setTimeout(function(){document.body.style.display="block";},500);};
+window.onload = function() {setTimeout(function(){document.body.style.display="block";
+document.body.style.opacity=1;},500);};
 //ripple effect
 function ripple_eff(e) {
 
