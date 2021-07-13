@@ -1,9 +1,9 @@
 
 # Contributing
 
-When contributing to this repository, please first discuss with me the change you wish to make via issue. 
+When contributing to this repository, please first discuss with me about the change you wish to make in the repo. 
 
-Please note we have a code of conduct, please follow it in all your interactions with the project.
+Please follow the <b><i>code of conduct</i></b> it in all your interactions with the project.
 
 ## Pull Request Process
 
@@ -26,7 +26,6 @@ include:
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
-* Focusing on what is best for the community
 
 
 Examples of unacceptable behavior by participants include:
@@ -41,7 +40,6 @@ advances
   professional setting
 
 
-
 ### Scope
 
 This Code of Conduct applies both within project spaces and in public spaces
@@ -54,7 +52,7 @@ further defined and clarified by project maintainers.
 ### Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting tme at sidhu3612@gmail.com. All
+reported by contacting me at sidhu3612@gmail.com. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances.
 
