@@ -1,26 +1,11 @@
-## Xidhu
-**Hi There,**
-<img align="center" alt="Hi" width="30%" src="main_.gif" /><br>
-*Nice to see you.<br>
-You are always welcome to contribute to my small Repos.*<br>
-
-<a href="https://xidhu.github.io/"><h3>website</h3></a>
-
-<img align="center" alt="Xidhu's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xidhu&langs_count=8&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
-  
- 
-<br>
-
 **My GitHub Status**
 ---
-
-
-
-<img align="center" alt="Xidhu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xidhu&show_icons=true&theme=radical " />
-
-
-  ####  How to reach me:   
-  
+![xidhu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xidhu&theme=radical&hide_border=true) 
+![xidhu's Stats](https://github-readme-stats.vercel.app/api?username=xidhu&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![xidhu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xidhu&theme=radical&show_icons=true&hide_border=true&layout=compact)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xidhu&theme=radical" alt="Hoang Son's GitHub Achievements" />
+<a href="https://xidhu.github.io/">About Me</a>
+  ####  How to reach me:     
   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/SXidhu)
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sidharth-s-886711a8)
   [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sidhu3612/)
