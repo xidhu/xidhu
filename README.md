@@ -1,18 +1,11 @@
-# Hello,
+### [I’m Xidhu](http://xidhu.github.io/) 
 
 [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=%E2%9D%A4&logo=Website&color=%23594560)](https://xidhu.github.io)
 [![Follow](https://img.shields.io/github/followers/xidhu?label=follow&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fxidhu)
- 
----
-
-## [⚡](https://xidhu.github.io) Software Developer from India 
 
 <be>
  
- <p> <h3>I’m Sidharth S </h3>
-People call me Xidhu.
-I am a Tech Enthusiast,
-a Software Developer with a passion for building scalable, high-performance solutions. Currently working at IBM India Software Labs, I have experience working with technologies like Kubernetes, OpenShift, Docker, Terraform, Tekton, Java, Go, Python, and C++. Whether it's developing cloud-native applications, integrating AI-driven solutions, or streamlining DevOps pipelines, I thrive in environments that challenge me to innovate.</p>
+
 
 
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)]()
