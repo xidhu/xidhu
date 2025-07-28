@@ -4,17 +4,14 @@
 
 <table align="center">
 <tr border="none">
-  <td width="15%" >
+  <td width="35%" >
       <a href="https://xidhu.github.io/" target="_blank">
     <img width="100%" src="https://raw.githubusercontent.com/xidhu/xidhu.github.io/47e4909cc25c025a5d4bd448fdb71227f60e65e6/assets/png/my_photo.png" alt="Xidhu Banner"/>
   </a>
   </td>
-  <td>
-    <h1 align="center">Hi there, I'm <strong>Xidhu</strong> 👋</h1>
-<p align="center">
-  Tech Enthusiast & Software Developer 🔧
+  <td align="center">
+    <img  align="center" height="100%" alt=""  src="https://leetcard.jacoblin.cool/sidharthsudheer20?theme=dark&font=ABeeZee&ext=heatmap" />
 
-</p>
   </td>
 </tr>
 </table>
@@ -29,6 +26,33 @@
 - Software developer with experience building cloud-native apps, DevOps pipelines, and AI-integrations  
 - Working with **Kubernetes, Terraform, OpenShift, Docker, Tekton**, and programming in **Java, Go, Python, C++**
 - Passionate about solving complex problems with scalable, high-performance solutions
+
+---
+## [⚡](http://xidhu.github.io/) My Stats
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+  <td width="45%" align="center">
+    
+   <img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=xidhu&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="1999AZZAR :: Top Langs by repo" />
+    <img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xidhu&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="1999AZZAR :: Top Langs by commit" />
+    
+  </td>
+  <td width="100%" align="center">
+    <img align="center" width="100%" alt="" src="https://github-readme-streak-stats-eight.vercel.app/?user=xidhu&theme=dark&hide_border=false" />
+   <img align="center" width="100%"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xidhu&theme=dark" alt="" />
+            <img src="https://github-profile-trophy.vercel.app/?username=xidhu&title=Stars,Commits,Repositories,Followers,Experience,Issues,PullRequest,Reviews&theme=gruvbox" alt="Xidhu" />
+    
+   <p align="center">
+    <img src="https://skillicons.dev/icons?i=c,java,kotlin,flutter,react,vscode,mongodb,firebase,linux,docker,aws,gcp,kubernetes,openshift,terraform" />
+</p>
+  </td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -52,33 +76,6 @@
 
 ---
 
-
-## [⚡](http://xidhu.github.io/) My Stats
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-  <td width="45%" align="center">
-    <img align="center" width="90%" alt="" src="https://github-readme-streak-stats-eight.vercel.app/?user=xidhu&theme=dark&hide_border=false" />
-   <img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=xidhu&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="1999AZZAR :: Top Langs by repo" />
-    <img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xidhu&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="1999AZZAR :: Top Langs by commit" />
-    
-  </td>
-  <td width="100%" align="center">
-   <img align="center" width="100%"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xidhu&theme=dark" alt="" />
-        <img  align="center" height="100%" alt=""  src="https://leetcard.jacoblin.cool/sidharthsudheer20?theme=dark&font=ABeeZee&ext=heatmap" />
-    <img src="https://github-profile-trophy.vercel.app/?username=xidhu&title=Stars,Commits,Repositories,Followers,Experience,Issues,PullRequest,Reviews&theme=gruvbox" alt="Xidhu" />
-   <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,java,kotlin,flutter,react,vscode,mongodb,firebase,linux,docker,aws,gcp,kubernetes,openshift,terraform" />
-</p>
-  </td>
-</tr>
-</table>
-</div>
-
----
 
 ## 📫 Connect With Me
 
