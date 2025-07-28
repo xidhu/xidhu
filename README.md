@@ -52,7 +52,6 @@
             <img src="https://github-profile-trophy.vercel.app/?username=xidhu&title=Stars,Commits,Repositories,Followers,Experience,Issues,PullRequest,Reviews&theme=gruvbox" alt="Xidhu" />
     
    <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,java,kotlin,flutter,react,vscode,mongodb,firebase,linux,docker,aws,gcp,kubernetes,openshift,terraform" />
 </p>
   </td>
 </tr>
@@ -74,10 +73,12 @@
 
 ### 🛠 Tech Stack
 
-- **Languages:** Java, Go, Python, Dart, C++
-- **Tools & Platforms:** Kubernetes · Terraform · Docker · OpenShift · Tekton
-- **CI/CD:** GitHub Actions / Tekton pipelines
-- **Cloud & API:** RESTful services, OpenWeather integrations
+- **Languages:**  <img align="center" src="https://skillicons.dev/icons?i=javascript,dart,cpp,python,java,kotlin,go" />
+- **Frameworks:** <img align="center" src="https://skillicons.dev/icons?i=flutter,react,spring" />
+- **Cloud Services:** <img align="center" src="https://skillicons.dev/icons?i=aws,gcp" />
+- **Platforms:** <img align="center" src="https://skillicons.dev/icons?i=openshift,kubernetes,docker" />
+- **CI/CD:** <img align="center" src="https://skillicons.dev/icons?i=jenkins,terraform" />
+- **IDEs:** <img align="center" src="https://skillicons.dev/icons?i=vim,vscode,androidstudio,idea" />
 
 ---
 
