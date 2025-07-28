@@ -1,4 +1,9 @@
 
+<h1 align="left"> I'm <strong><a href="https://xidhu.github.io/" >Xidhu</a></strong> 👋</h1>
+<p align="left">
+  Tech Enthusiast & Software Developer 🔧
+</p>
+
 [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=%E2%9D%A4&logo=Website&color=%23594560)](https://xidhu.github.io)
 [![Follow](https://img.shields.io/github/followers/xidhu?label=follow&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fxidhu)<p align="center">
 
@@ -6,11 +11,11 @@
 <tr border="none">
   <td width="35%" >
       <a href="https://xidhu.github.io/" target="_blank">
-    <img width="100%" src="https://raw.githubusercontent.com/xidhu/xidhu.github.io/47e4909cc25c025a5d4bd448fdb71227f60e65e6/assets/png/my_photo.png" alt="Xidhu Banner"/>
+    <img width="110%" src="https://raw.githubusercontent.com/xidhu/xidhu.github.io/47e4909cc25c025a5d4bd448fdb71227f60e65e6/assets/png/my_photo.png" alt="Xidhu Banner"/>
   </a>
   </td>
   <td align="center">
-    <img  align="center" height="100%" alt=""  src="https://leetcard.jacoblin.cool/sidharthsudheer20?theme=dark&font=ABeeZee&ext=heatmap" />
+    <img  align="center" width="88%" alt=""  src="https://leetcard.jacoblin.cool/sidharthsudheer20?theme=dark&font=ABeeZee&ext=heatmap" />
 
   </td>
 </tr>
