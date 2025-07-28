@@ -67,7 +67,7 @@
 | **weNow-API** | Java, OpenWeather API | Weather‑based REST API backend |
 | **weNow‑App** | Dart & Flutter | Cross‑platform weather app consuming weNow‑API |
 | **Gchat / Gchat_app** | JavaScript / Dart | Real‑time web/chat apps for learning purposes |
-| **attendance‑marker** | Chrome Extension | Automates attendance in Google Meet calls :contentReference[oaicite:2]{index=2} |
+| **attendance‑marker** | Chrome Extension | Automates attendance in Google Meet calls |
 
 ---
 
