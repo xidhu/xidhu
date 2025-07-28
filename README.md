@@ -60,17 +60,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Description |
-|--------|-------------|-------------|
-| **weNow-API** | Java, OpenWeather API | Weather‑based REST API backend |
-| **weNow‑App** | Dart & Flutter | Cross‑platform weather app consuming weNow‑API |
-| **Gchat / Gchat_app** | JavaScript / Dart | Real‑time web/chat apps for learning purposes |
-| **attendance‑marker** | Chrome Extension | Automates attendance in Google Meet calls |
-
----
-
 ### 🛠 Tech Stack
 
 - **Languages:**  <img align="center" src="https://skillicons.dev/icons?i=javascript,dart,cpp,python,java,kotlin,go" />
