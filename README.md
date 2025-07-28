@@ -4,8 +4,10 @@
   Tech Enthusiast & Software Developer 🔧
 </p>
 
-
-
+- Software developer with experience building cloud-native apps, DevOps pipelines, and AI-integrations  
+- Working with **Kubernetes, Terraform, OpenShift, Docker, Tekton**, and programming in **Java, Go, Python, C++**
+- Passionate about solving complex problems with scalable, high-performance solutions
+<br>
 <p align="left">
   <a href="https://www.linkedin.com/in/sidharth-s-886711a8/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -24,6 +26,8 @@
 [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=%E2%9D%A4&logo=Website&color=%23594560)](https://xidhu.github.io)
 [![Follow](https://img.shields.io/github/followers/xidhu?label=follow&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fxidhu)<p align="center">
 
+---
+
 <table align="center">
 <tr border="none">
   <td width="35%" >
@@ -38,19 +42,7 @@
 </tr>
 </table>
 
-
-
-
 ---
-
-### 🧠 About Me
-
-- Software developer with experience building cloud-native apps, DevOps pipelines, and AI-integrations  
-- Working with **Kubernetes, Terraform, OpenShift, Docker, Tekton**, and programming in **Java, Go, Python, C++**
-- Passionate about solving complex problems with scalable, high-performance solutions
-
----
-## [⚡](http://xidhu.github.io/) My Stats
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -76,8 +68,6 @@
 </div>
 
 ---
-
-### 🛠 Tech Stack
 
 - **Languages:**  <img align="center" src="https://skillicons.dev/icons?i=javascript,dart,cpp,python,java,kotlin,go" />
 - **Frameworks:** <img align="center" src="https://skillicons.dev/icons?i=flutter,react,spring" />
