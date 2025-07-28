@@ -4,6 +4,23 @@
   Tech Enthusiast & Software Developer 🔧
 </p>
 
+
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sidharth-s-886711a8/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/_xidhu_" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_.xidhu._/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:sidhu3612@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=%E2%9D%A4&logo=Website&color=%23594560)](https://xidhu.github.io)
 [![Follow](https://img.shields.io/github/followers/xidhu?label=follow&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fxidhu)<p align="center">
 
@@ -68,17 +85,6 @@
 - **Platforms:** <img align="center" src="https://skillicons.dev/icons?i=openshift,kubernetes,docker" />
 - **CI/CD:** <img align="center" src="https://skillicons.dev/icons?i=jenkins,terraform" />
 - **IDEs:** <img align="center" src="https://skillicons.dev/icons?i=vim,vscode,androidstudio,idea" />
-
----
-
-
-## 📫 Connect With Me
-
-  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/SXidhu)
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sidharth-s-886711a8)
-  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sidhu3612/)
-  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/_.xidhu.__/)
-  <a href="mailto:sidhu3612@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 ---
 
