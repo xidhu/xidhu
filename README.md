@@ -49,16 +49,9 @@
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-  <td width="45%" align="center">
-    
-   <img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=xidhu&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="1999AZZAR :: Top Langs by repo" />
-    <img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xidhu&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="1999AZZAR :: Top Langs by commit" />
-    
-  </td>
   <td width="100%" align="center">
     <img align="center" width="100%" alt="" src="https://github-readme-streak-stats-eight.vercel.app/?user=xidhu&theme=dark&hide_border=false" />
    <img align="center" width="100%"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xidhu&theme=dark" alt="" />
-            <img src="https://github-profile-trophy.vercel.app/?username=xidhu&title=Stars,Commits,Repositories,Followers,Experience,Issues,PullRequest,Reviews&theme=gruvbox" alt="Xidhu" />
     
    <p align="center">
 </p>
