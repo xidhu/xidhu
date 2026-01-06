@@ -49,11 +49,11 @@
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-  <td width="100%" align="center">
+  <td width="40%" align="center">
     <img align="center" width="100%" alt="" src="https://github-readme-streak-stats-eight.vercel.app/?user=xidhu&theme=dark&hide_border=false" />
+  </td>
+  <td width="60%" align="center">
    <img align="center" width="100%"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xidhu&theme=dark" alt="" />
-    
-   <p align="center">
 </p>
   </td>
 </tr>
